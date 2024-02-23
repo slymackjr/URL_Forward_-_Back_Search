@@ -189,7 +189,7 @@ I would like to thank these wonderful tools that enabled me to make it all happe
 [license-url]: https://github.com/slymackjr/URL_Forward_-_Back_Search/blob/URLBackForward/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jofrey-nyamasheki-9bb8781ab?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-[product-screenshot]: screenshots/image1.png
+[product-screenshot]: screenshots/image1.PNG
 [Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
 [Laravel-url]: https://laravel.com
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
